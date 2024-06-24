@@ -12,5 +12,5 @@ This repository contains an implementation of an attack on the Vigenère Cipher 
 ## Credits:
 
 The following resources were used in doing this assignment:
-- [Wikipedia: Vigenère Cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher#Kasiski_examination)
+- [Wikipedia: Vigenère Cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)
 - [Wikipedia: Kasiski Examination](https://en.wikipedia.org/wiki/Kasiski_examination)
